@@ -1,0 +1,12 @@
+UnexpectedAlertOpenError: Modal dialog present: Stop running this script?
+
+A script on this page is causing your web browser to run slowly.
+If it continues to run, your computer might become
+unresponsive.
+
+
+Build info: version: '2.47.1', revision: '411b314', time: '2015-07-30 03:03:16'
+System info: host: 'Windows7-3-PC', ip: '192.168.1.203', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=8, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:43560/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a995f4f5-5597-4cec-9641-442a9a86ee5f
